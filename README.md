@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmelloarlen&label=Profile%20views&color=0e75b6&style=flat" alt="dmelloarlen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmelloarlen" alt="dmelloarlen" /></a> </p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=dmelloarlen" alt="dmelloarlen" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio**
 
@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **arlendmello03@gmail.com**
 
-- 📄 Know about my experiences [.](.)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/arlendmello" target="blank">LinkedIn</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
