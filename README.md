@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I%27m+Arlen+Dmello;नमस्कार%F0%9F%91%8B,+मी+आर्लेन+डमेलो;नमस्ते,+मैं+अर्लेन+डीमेलो;Hola%F0%9F%91%8B,soy+Arlen+Dmello." alt="Sequential Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I%27m+Arlen+Dmello;नमस्कार%F0%9F%91%8B,+मी+आर्लेन+डमेलो;नमस्ते,+मैं+अर्लेन+डीमेलो;Hola%F0%9F%91%8B,soy+Arlen+Dmello." alt="Pixel Typing"/>
 </p>
+
+
+
+
 
 <h3 align="center">A passionate Web Developer from India</h3>
 
